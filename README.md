@@ -1,8 +1,8 @@
 ngMoreScroll
 ============
 
-more-scroll is updated version of infinite scroll 
-  (http://binarymuse.github.io/ngInfiniteScroll
+more-scroll is updated version of infinite scroll<br/>
+  (http://binarymuse.github.io/ngInfiniteScroll<br/>
    http://jsfiddle.net/vojtajina/U7Bz9)
 
 
