@@ -8,4 +8,4 @@ more-scroll is updated version of infinite scroll<br/>
 
 Example :
 
-  http://plnkr.co/edit/XETX1KMaUtGMfQGS6eG8?p=preview
+  http://plnkr.co/edit/i72IZj?p=info
